@@ -1,5 +1,5 @@
 # hello-world
-Github guide instruction
+Github guided instruction
 
 committed by: Jean-Paul
 
