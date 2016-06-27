@@ -1,6 +1,5 @@
 # hello-world
-Github guide instruction
+Github guided instruction
 
 committed by: Jean-Paul
-
 date: 27-07-2016
